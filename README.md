@@ -39,7 +39,7 @@ $ npm install
 ```bash
 $ npm run start
 ```
-
+listo
 ## Start Playing!
 
 Follow the presentation for a better experience.
